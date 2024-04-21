@@ -1,11 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T10:08:41.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3zx-uHssqEY8faBjqZle" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T05:31:41.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ezHwRP4LkSesnYeuCEyY" version="24.2.7" type="github">
   <diagram name="Page-1" id="I-vROl8wck2bUYbO3nWg">
-    <mxGraphModel dx="486" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hv0lNVGdtfThHYHVHC5F-1" value="&lt;b&gt;Extension of simulation tool&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="130" height="40" as="geometry" />
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="OrBZHFKTNhssRqAJwUsz-1" target="OrBZHFKTNhssRqAJwUsz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-1" value="&lt;b&gt;Propagation parameter tuning&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="OrBZHFKTNhssRqAJwUsz-3" target="OrBZHFKTNhssRqAJwUsz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-3" value="&lt;b&gt;Small scaled physical test in several distances selected environment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="OrBZHFKTNhssRqAJwUsz-4" target="OrBZHFKTNhssRqAJwUsz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-4" value="&lt;b&gt;Collection of RSSI Values&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="OrBZHFKTNhssRqAJwUsz-8" target="OrBZHFKTNhssRqAJwUsz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-8" value="&lt;b&gt;Calculating standard deviation value&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="OrBZHFKTNhssRqAJwUsz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="430.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-12" value="&lt;b&gt;Calculation the path loss exponent using the simulation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-16" value="&lt;b&gt;Verification of the parameter values using the another distance data set&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.531;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="490.0000000000002" as="sourcePoint" />
+            <mxPoint x="419.68999999999994" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrBZHFKTNhssRqAJwUsz-18" value="&lt;b&gt;Selecting the suitable spreading factor and separation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
